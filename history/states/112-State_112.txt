@@ -1,0 +1,10 @@
+state={
+	id=112
+	name="STATE_112"
+	provinces={
+		28 69 107 233 304 428 
+	}
+	manpower=0
+	history={ owner = JFC}
+	buildings_max_level_factor=1.000
+}

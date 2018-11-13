@@ -1,0 +1,10 @@
+state={
+	id=16
+	name="STATE_16"
+	provinces={
+		159 270 
+	}
+	manpower=0
+	history={ owner = OCT}
+	buildings_max_level_factor=1.000
+}

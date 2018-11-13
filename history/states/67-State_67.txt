@@ -1,0 +1,10 @@
+state={
+	id=67
+	name="STATE_67"
+	provinces={
+		106 266 352 400 
+	}
+	manpower=0
+	history={ owner = IDL}
+	buildings_max_level_factor=1.000
+}

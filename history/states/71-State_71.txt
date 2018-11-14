@@ -6,6 +6,9 @@ state={
 	}
 	manpower=40000
 
-	history={ owner = INK }
+	history={ owner = INK
+	add_core_of = INK  }
+
+state_category= rural
 	buildings_max_level_factor=1.000
 }

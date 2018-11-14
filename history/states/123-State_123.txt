@@ -15,7 +15,10 @@ state={
 				naval_base = 0
 			}
 		}
-		add_core_of = INK
 
+		add_core_of = INK
+}
+
+	state_category= megalopolis
 	buildings_max_level_factor=1.000
 }

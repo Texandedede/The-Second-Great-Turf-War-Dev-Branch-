@@ -13,5 +13,7 @@ state={
 	}
 			add_core_of = INK
 }
+
+	state_category= megalopolis
 	buildings_max_level_factor=1.000
 }

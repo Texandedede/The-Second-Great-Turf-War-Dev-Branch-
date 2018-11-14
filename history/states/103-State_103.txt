@@ -5,6 +5,9 @@ state={
 		73 203 412 423 
 	}
 	manpower=20000
-	history={ owner = INK }
+	history={ owner = INK 
+	add_core_of = INK}
+
+state_category= wasteland
 	buildings_max_level_factor=1.000
 }

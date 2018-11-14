@@ -1,5 +1,5 @@
-name="The Second Great Turf War"
-path="mod/The Second Great Turf War"
+name="The Second Great Turf War [Dev Branch]"
+path="mod/The Second Great Turf War [Dev Branch]"
 replace_path="history/states"
 replace_path="map/strategicregions"
 replace_path="map/supplyareas"

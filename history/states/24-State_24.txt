@@ -4,8 +4,12 @@ state={
 	provinces={
 		163 
 	}
-	manpower=0
-	
-	history={ owner = OCR}
+	manpower=15000
+			history={ owner = OCR
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = OCR}
+		state_category= wasteland
 	buildings_max_level_factor=1.000
 }

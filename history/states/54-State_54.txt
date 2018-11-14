@@ -4,8 +4,15 @@ state={
 	provinces={
 		136 167 190 303 389 
 	}
-	manpower=0
-
-	history={ owner = OCR}
+	manpower=500000
+	history={ owner = OCR
+		buildings = {
+			arms_factory = 1
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = OCR}
+		state_category= town
 	buildings_max_level_factor=1.000
 }

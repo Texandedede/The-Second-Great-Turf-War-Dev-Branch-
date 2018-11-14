@@ -110,8 +110,10 @@
  TAR_communism_:0 "New United Peoples Republic"
  TAR_communism_DEF:0 "New United Peoples Republic"
  TAR_fascism:0 "Sanitized Lands"
- TAR_fascism_DEF:0 "Sanitized Lands"
+ TAR_fascism_DEF:0 "Sanitized Lands"  
  TAR_fascism_ADJ:0 "Sanitized Lands"
  TAR_neutrality_ADJ:0 "Tartarian Remnants"
  TAR_democratic_ADJ:0 "New United Republic"
  TAR_communism_ADJ:0 "New United Peoples Republic"
+################## Bookmark Loc
+INK_GATHERING_STORM_DESC:0 "Inkopolis is the homeland of the Inklings, the most numerous race on Earth. Here, Inklings have lived in peace for generations, given unlimited power by the great zapfish and watched over by the Squidbeak Splatoon. Recently, the peace has been shattered. The Great Zapfish has been stolen for the second time in the last decade, and the agent from the Squidbeak Splatoon, Agent 4, has failed to recover it. With this, the existence of the sinister Octarian Empire has been revealed. Marie, one half of the Squid Sisters, has been forced to take a leadership role. The peaceful lives of the Inklings have been shattered. Can Inkopolis survive this new age of war?"

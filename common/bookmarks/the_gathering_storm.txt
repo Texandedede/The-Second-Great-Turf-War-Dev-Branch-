@@ -11,6 +11,11 @@ bookmarks = {
 			history = "INK_GATHERING_STORM_DESC"
 			ideology = democratic
 		}
+
+		"OCR"={
+			history = "OCR_GATHERING_STORM_DESC"
+			ideology = democratic
+		}
 		effect = {
 			randomize_weather = 22345 # <- Obligatory in every bookmark !
 			#123 = { rain_light = yes }

@@ -51,6 +51,16 @@ set_politics = {
 			popularity = 10
 		}
 	}
-	ruling_party = Democratic
+	ruling_party = Democratic}
+create_country_leader = {
+	name = "Marina"
+	desc = ""
+	picture = "marina.tga"
+	expire = "1953.3.1"
+	ideology = liberalism
+	traits = {
+		
+	}
+}
 }
 

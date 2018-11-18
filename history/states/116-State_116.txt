@@ -4,7 +4,15 @@ state={
 	provinces={
 		64 277 
 	}
-	manpower=0
-	history={ owner = GRC}
+	manpower=2000000
+		history={ owner = GRC
+	buildings = {
+	arms_factory = 2
+	infrastructure = 4
+	industrial_complex = 0
+		}
+		add_core_of = GRC
+}
+	state_category= city
 	buildings_max_level_factor=1.000
 }

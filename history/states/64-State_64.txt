@@ -4,7 +4,18 @@ state={
 	provinces={
 		7 131 161 296 359 395 
 	}
-	manpower=0
-	history={ owner = OCT}
+
+	manpower=1000000
+
+	history={ owner = OCT
+		buildings = {
+	arms_factory = 1
+	infrastructure = 5
+	industrial_complex = 1
+		}
+
+		add_core_of = OCT
+}
+	state_category= megalopolis
 	buildings_max_level_factor=1.000
 }

@@ -4,8 +4,22 @@ state={
 	provinces={
 		424 426 
 	}
-	manpower=0
+	manpower=7000000
+	history={ owner = JFC
+	buildings = {
+	arms_factory = 2
+	infrastructure = 7
+	industrial_complex = 2
+			426 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = JFC
+		victory_points = {
+			 426 20
+		}
+}
 
-	history={ owner = JFC}
+	state_category= megalopolis
 	buildings_max_level_factor=1.000
 }

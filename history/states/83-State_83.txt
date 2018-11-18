@@ -4,7 +4,15 @@ state={
 	provinces={
 		225 228 
 	}
-	manpower=0
-	history={ owner = GRC}
+	manpower=200000
+		history={ owner = GRC
+	buildings = {
+	arms_factory = 0
+	infrastructure = 4
+	industrial_complex = 0
+		}
+		add_core_of = GRC
+}
+	state_category= pastoral
 	buildings_max_level_factor=1.000
 }

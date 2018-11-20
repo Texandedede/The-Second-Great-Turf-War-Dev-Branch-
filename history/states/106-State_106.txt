@@ -4,7 +4,7 @@ state={
 	provinces={
 		114 229 
 	}
-	manpower=0
+	manpower=40000
 
 	history={ owner = INK
 	add_core_of = INK }

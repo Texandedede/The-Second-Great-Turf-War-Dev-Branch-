@@ -4,7 +4,9 @@ state={
 	provinces={
 		374 
 	}
-	manpower=0
-	history={ owner = TAR}
+		manpower= 100000
+	history={ owner = TAR
+			add_core_of = TAR}
+	state_category= rural	
 	buildings_max_level_factor=1.000
 }

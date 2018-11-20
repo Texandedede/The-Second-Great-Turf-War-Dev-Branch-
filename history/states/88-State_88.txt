@@ -4,7 +4,9 @@ state={
 	provinces={
 		 183 288 
 	}
-	manpower=0
-	history={ owner = SAL}
+	manpower=100000
+	history={ owner = SAL
+			add_core_of = SAL }
+	state_category= wasteland
 	buildings_max_level_factor=1.000
 }

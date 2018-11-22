@@ -1,4 +1,4 @@
-capital = 46
+﻿capital = 46
 
 set_research_slots = 4
 
@@ -50,7 +50,18 @@ set_politics = {
 		communism = {
 			popularity = 15
 		}
-	}
+}
 	ruling_party = fascism
 }
 
+create_country_leader = {
+	name = "DJ Octavio"
+	desc = ""
+	picture = "octavio.tga"
+	expire = "1953.3.1"
+	ideology = fascism_ideology
+	traits = {
+		
+	}
+}
+}

@@ -1,16 +1,4 @@
 ﻿l_english:
- TST_fascism:0 "Test Country"
- TST_fascism_DEF:0 "Test Country"
- TST_democratic:0 "Test Country"
- TST_democratic_DEF:0 "Test Country"
- TST_neutrality:1 "Test Country"
- TST_neutrality_DEF:1 "Test Country"
- TST_communism:0 "Test Country"
- TST_communism_DEF:0 "Test Country"
- TST_fascism_ADJ:0 "Test Country"
- TST_democratic_ADJ:0 "Test Country"
- TST_neutrality_ADJ:0 "Test Country"
- TST_communism_ADJ:0 "Test Country"
  ############## Inkopolis
  INK_democratic:0 "Inkopolis Republic"
  INK_democratic_DEF:0 "Inkopolis"
@@ -118,3 +106,4 @@
 ################## Bookmark Loc
 INK_GATHERING_STORM_DESC:0 "Inkopolis is the homeland of the Inklings, the most numerous race on Earth. Here, Inklings have lived in peace for generations, given unlimited power by the great zapfish and watched over by the Squidbeak Splatoon. Recently, the peace has been shattered. The Great Zapfish has been stolen for the second time in the last decade, and the agent from the Squidbeak Splatoon, Agent 4, has failed to recover it. With this, the existence of the sinister Octarian Empire has been revealed. Marie, one half of the Squid Sisters, has been forced to take a leadership role. The peaceful lives of the Inklings have been shattered. Can Inkopolis survive this new age of war?"
 OCR_GATHERING_STORM_DESC:0 "Four years ago, during the first Great Zapfish crisis, the Squid Sisters performed the Calamari Inkantation in the center of the Octarian Empire, breaking the mind control of millions of Octarians who witnessed the event. Based out of the city of Mount Nantai, these Octolings, together with their Inkling cousins, have united for the sole purpose of freeing their species from DJ Octavio's infernal control. Short on equipment, they know its only a matter of time before DJ Octavio comes to reclaim what he views as his property. With war coming fast, Marina Iida has been voted into power. The future of the Octoling race now rests in her hands."
+OCT_GATHERING_STORM_DESC:0 "The Octarian Empire has existed as long as Inkopolis, perhaps even longer. Although once peaceful with their inkling cousins, the Octarians of today are led by DJ Octavio, a ruthless dictator who uses his hypnotic beats to rule over the mind of every citizen. Octavio desires only the destruction of Inkopolis, and will stop at nothing to leave the city in ruins. Despite recent victories, the impact of the first Zapfish crisis leaves the Octarian Empire in a dangerous position. Should Octavio's conditioning fail any further, the Octarian Empire is very likely to fall to pieces. Octavio fast prepares for war on the Inklings, to end the threat before it can truly begin."

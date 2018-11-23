@@ -53,4 +53,13 @@ set_politics = {
 	}
 	ruling_party = fascism
 }
-
+create_country_leader = {
+	name = "Commander Tartar"
+	desc = ""
+	picture = "tartar.tga"
+	expire = "1953.3.1"
+	ideology = fascism_ideology
+	traits = {
+		
+	}
+}

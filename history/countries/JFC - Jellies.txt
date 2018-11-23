@@ -54,3 +54,12 @@ set_politics = {
 	ruling_party = Democratic
 }
 
+create_country_leader = {
+	name = "Jelonzo"
+	desc = ""
+	picture = "jelonzo.tga"
+	expire = "1953.3.1"
+	ideology = liberalism
+	traits = {
+		
+	}

@@ -5,6 +5,10 @@ state={
 		4 80 279 
 	}
 	manpower=20000
+	resources={
+		steel=62.000
+		tungsten=24.000
+	}
 	history={ owner = INK 
 	add_core_of = INK}
 

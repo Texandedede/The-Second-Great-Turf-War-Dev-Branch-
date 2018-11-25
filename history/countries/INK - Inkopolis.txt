@@ -1,5 +1,7 @@
 ﻿capital = 124
 
+oob = "INK_1936"
+
 set_research_slots = 4
 
 set_technology = {
@@ -55,7 +57,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Marie"
-	desc = "Left as the last popular and well known voice in Inkopolis, Marie has had to step into the unconfortable role of leader in the wake of her sisters disappearance and Agent 4's death."
+	desc = ""
 	picture = "marie.tga"
 	expire = "1953.3.1"
 	ideology = liberalism

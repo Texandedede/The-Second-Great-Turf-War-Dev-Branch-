@@ -5,6 +5,11 @@ state={
 		25 110 357 422 
 	}
 	manpower=700000
+		resources={
+		oil=33.000
+		rubber=31.000
+	}
+
 		history={ owner = JFC
 	buildings = {
 	arms_factory = 1

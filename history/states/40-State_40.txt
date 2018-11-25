@@ -5,6 +5,10 @@ state={
 		124 169 251 324 328 
 	}
 	manpower=10000
+	resources={
+		steel=50.000
+		tungsten=30.000
+	}
 	history={ owner = OCT
 			add_core_of = OCT }
 	state_category= wasteland

@@ -5,6 +5,10 @@ state={
 		14 153 258 398 95
 	}
 	manpower=30000
+		resources={
+		oil=50.000
+		rubber=29.000
+	}
 	history={ owner = TAR
 			add_core_of = TAR }
 	state_category= wasteland

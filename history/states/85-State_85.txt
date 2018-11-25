@@ -4,6 +4,10 @@ state={
 	provinces={
 		67 293 409 
 	}
+	resources={
+		aluminium=43.000
+		chromium=33.000
+	}
 
 	manpower=100000
 		history={ owner = IDL

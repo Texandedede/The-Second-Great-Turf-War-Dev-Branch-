@@ -5,7 +5,10 @@ state={
 		3 75 125 200 274 280 284 
 	}
 	manpower=300000
-	
+		resources={
+		oil=33.000
+		rubber=31.000
+	}
 	history={ owner = OCR
 		buildings = {
 			arms_factory = 1

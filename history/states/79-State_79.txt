@@ -5,7 +5,10 @@ state={
 		192 194 221 248 295 316 365 406 
 	}
 	manpower=3000000
-	
+	resources={
+		steel=62.000
+		tungsten=30.000
+	}
 	history={ owner = SAL
 	buildings = {
 	arms_factory = 1

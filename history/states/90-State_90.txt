@@ -6,6 +6,14 @@ state={
 	}
 
 	manpower=2000000
+	resources={
+		aluminium=39.000
+		chromium=33.000
+		oil=33.000
+		rubber=31.000
+		steel=40.000
+		tungsten=20.000
+	}
 		history={ owner = GRC
 	buildings = {
 	arms_factory = 3

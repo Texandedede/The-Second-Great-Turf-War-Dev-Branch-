@@ -5,6 +5,10 @@ state={
 		72 164 313 348 
 	}
 	manpower=80000	
+	resources={
+		steel=60.000
+		tungsten=20.000
+	}
 	history={ owner = IDL
 	buildings = {
 	arms_factory = 1

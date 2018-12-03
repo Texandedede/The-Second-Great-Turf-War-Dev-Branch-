@@ -30,6 +30,7 @@ replace_path="common/ai_focuses"
 replace_path="common/ai_peace"
 replace_path="common/technology_sharing"
 replace_path="common/ai_templates"
+replace_path="gfx/loadingscreens"
 
 
 tags={
